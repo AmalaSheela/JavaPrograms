@@ -2,7 +2,7 @@ package com.obsqura.pgm.StaticMethod;
 
 public class Staticaccount {
 	
-	//Method1 currentbalance
+	//Method1 
 	public static int currentbalance(int balance)
 	{
 		return balance;
